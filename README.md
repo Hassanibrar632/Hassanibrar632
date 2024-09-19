@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm M. Hassan Ibrar</h1>
 <h3 align="center">An enthusiastic AI degree student with a passion for diving deep into the fascinating world of Artificial Intelligence. 🎓</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhyZHE0bWh0cnVxb3dzdnNiamFza3VmODBuOWY5bzB4aXV3aWxxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhyZHE0bWh0cnVxb3dzdnNiamFza3VmODBuOWY5bzB4aXV3aWxxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanibrar632&label=Profile%20views&color=0e75b6&style=flat" alt="hassanibrar632" /> </p>
