@@ -1,27 +1,25 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm M. Hassan Ibrar</h1>
-<h3 align="center">An enthusiastic AI degree student with a passion for diving deep into the fascinating world of Artificial Intelligence. 🎓</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhyZHE0bWh0cnVxb3dzdnNiamFza3VmODBuOWY5bzB4aXV3aWxxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<h1 align="center">👋 I'm M. Hassan Ibrar — the mind behind the pixels.</h1>
+<h3 align="center">🚀 AI Enthusiast | Graduate | Building Cool Stuff</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanibrar632&label=Profile%20views&color=0e75b6&style=flat" alt="hassanibrar632" /> </p>
+<h2>🧠 About Me</h2>
 
-- 🔭 I’m currently working on **The Office and Fiverr**
+💻 I enjoy coding and problem-solving — from optimizing pipelines to building from scratch.
 
-- 🧠 My Journey: **Ever since I embarked on my academic journey into AI, I've been on an exhilarating adventure of unraveling the mysteries of machine learning, neural networks, and data-driven decision-making. My quest to understand the inner workings of AI models has taken me on a captivating ride through the ever-evolving landscape of technology.**
+🤖 Passionate about AI, especially projects involving LLMs, Stable Diffusion, and image enhancement.
 
-- 👯 I’m not looking to collaborate right now
-  
-- 👨‍💻 All of my projects are available at [Repos](https://github.com/Hassanibrar632?tab=repositories)
+🔍 Built a flood detection system using unsupervised learning and clustering to calculate water levels from image patches.
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Python**
+📈 Developed advanced super-resolution tools like RealESRGAN and my custom ESRGANPlus.
 
-- 📫 How to reach me **hassanibrar632@gmail.com**
+🧪 Always exploring new ways to apply generative models to practical challenges.
 
-- 💡 My Expertise: [CV](https://drive.google.com/file/d/1hrsw6tJOt90-wWIIaXvOzTdGPumS_Jpw/view?usp=drive_link)
+<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-- 🌐 The AI World: **In the rapidly advancing field of AI, I am a firm believer that knowledge-sharing is the key to progress. That's why I'm not just a student but also an avid contributor to the AI community. Whether it's collaborating on research projects, attending conferences, or sharing insights through my blog and social media, I'm always eager to engage with fellow AI enthusiasts.**
-- 🌟 My Vision: **As I continue my AI journey, I aspire to make a meaningful impact by developing AI models that tackle real-world challenges. Whether it's enhancing healthcare diagnostics, optimizing supply chain operations, or revolutionizing autonomous vehicles, I am driven by the idea that AI can transform industries and improve lives.**
+<img align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; display: block;">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
